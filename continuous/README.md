@@ -1,0 +1,1 @@
+This portion is a work in progress. It is an attempt to extend EVE to model-based continuous control problems with function approximation. There are some signs of life, but more work is needed.
