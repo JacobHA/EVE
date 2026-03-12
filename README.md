@@ -10,3 +10,12 @@ A single run on the desired environment can be executed with
 python tabular/uonly_agent_MB.py
 ```
 
+The discounted, average-reward, MaxEnt baselines, and EVE can be run with
+```bash
+python tabular/sweep_disc_sql_explore.py
+python tabular/sweep_avg_sql_explore.py
+python tabular/fw_hazan.py
+python tabular/sweep_eve.py
+```
+
+which will generate the data (in csv form) for the plot above.
