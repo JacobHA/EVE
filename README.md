@@ -1,4 +1,4 @@
-Welcome to the repository for the paper "Maximum Entropy Exploration Without the Rollouts".
+Welcome to the repository for the paper "A Value-Based Approach to Maximum Entropy Exploration" (former title: "Maximum Entropy Exploration Without the Rollouts").
 
 ![Figure 1](/hyperparameter_sweeps/algorithm_comparison_plot.png)
 
